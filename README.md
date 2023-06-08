@@ -12,3 +12,5 @@ Just write your name and tell us the most interesting story of your life. and th
 #Cesar
 I am César and I think the most interesting part of my life was when I came to Belgium and started a new life far far away from home.
 
+#Fré
+I am Fré and maybe the most interesting part of my life was when I interviewed a former Prime Minister of Nepal while sitting on a bed somewhere in Deurne.
