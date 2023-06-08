@@ -4,13 +4,14 @@
 
 Let's play Exquisite Corpse ! 
 
+First, open the collaboration branch
+Just write your name and tell us the most interesting story of your life. Then edit the commit message by adding your name after the word "update" in the commit message. Also add a number+1 after your name in case you make more than 1 markdown.
 
-First, make a new branch with the name of your name.
-Just write your name and tell us the most interesting story of your life. and then click on commit change. add a commit message if necessary
-
+#Wouter was here 
 
 #Cesar
 I am César and I think the most interesting part of my life was when I came to Belgium and started a new life far far away from home.
 
 #Fré
 I am Fré and maybe the most interesting part of my life was when I interviewed a former Prime Minister of Nepal while sitting on a bed somewhere in Deurne.
+
