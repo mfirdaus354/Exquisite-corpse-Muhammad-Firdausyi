@@ -7,7 +7,9 @@ Let's play Exquisite Corpse !
 
 Let's play Exquisite Corpse ! 
 
-Just write your name and tell us the most interesting story of your life. Then edit the commit message by adding your name after the word "update" in the commit message. Also add a number+1 after your name in case you make more than 1 markdown.
+Just write your name and tell us the most interesting story of your life. Then edit the commit message by adding your name after the word "update" in the commit message. Also add a number+1 after your name in case you make more than 1 markdown. Then commit changes using a separate branch. 
+
+Thank you and enjoy.
 
 ### Wouter was here 
 
