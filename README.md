@@ -1,4 +1,4 @@
-# Exquisite-corpse-Muhammad-Firdausyi
+﻿# Exquisite-corpse-Muhammad-Firdausyi
 
 
 Let's play Exquisite Corpse !
@@ -13,6 +13,9 @@ Thank you and enjoy.
 
 ### Wouter was here 
 
+### Finol
+I am Fatemeh and I think the most interesting part of my life was when I started to teach painting.
+
 ### Cesar
 I am César and I think the most interesting part of my life was when I came to Belgium and started a new life far far away from home.
 
@@ -22,3 +25,5 @@ I am Fré and maybe the most interesting part of my life was when I interviewed 
 ### Muhammad 
 [08/06/2023 09:00]
 trying to integrate VSCode to Github 
+
+
