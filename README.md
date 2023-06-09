@@ -1,5 +1,8 @@
 # Exquisite-corpse-Muhammad-Firdausyi
 
+
+Let's play Exquisite Corpse !
+
 ## This repo is made to fulfill training exercise on Git and GitHub
 
 Let's play Exquisite Corpse ! 
@@ -18,3 +21,4 @@ I am Fré and maybe the most interesting part of my life was when I interviewed 
 ### Muhammad 
 [08/06/2023 09:00]
 trying to integrate VSCode to Github
+
